@@ -14,6 +14,6 @@ public class GitEjemplo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("Estoy moviendo la camara");
     }
 }
