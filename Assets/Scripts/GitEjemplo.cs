@@ -15,5 +15,6 @@ public class GitEjemplo : MonoBehaviour
     void Update()
     {
         Debug.Log("Primer commit personaje");
+        Debug.Log("Estoy moviendo la camara");
     }
 }
