@@ -8,6 +8,7 @@ public class GitEjemplo : MonoBehaviour
     void Start()
     {
         Debug.Log("Primer commit");
+        Debug.Log("Segundo commit");
     }
 
     // Update is called once per frame
